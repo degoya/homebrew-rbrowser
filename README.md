@@ -15,7 +15,7 @@ brew install degoya/rbrowser/rbrowser
 replace itself. The macOS app is signed ad hoc, not notarised: macOS asks once before its first
 start.
 
-Current version: 0.9.7. The cask and the formula are written by the release workflow of
+Current version: 0.9.8. The cask and the formula are written by the release workflow of
 [degoya/rBrowser](https://github.com/degoya/rBrowser) with every release - issues and changes go there,
 not here. The handbook's installation page:
 <https://github.com/degoya/rBrowser/wiki/installation>.

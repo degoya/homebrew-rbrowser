@@ -6,9 +6,9 @@
 class Rbrowser < Formula
   desc "Development browser that shows every breakpoint of a site at once"
   homepage "https://github.com/degoya/rBrowser"
-  url "https://github.com/degoya/rBrowser/releases/download/v0.9.7/rbrowser-0.9.7-linux-x64.tar.gz"
-  sha256 "b064740377c537cd06581badf90ad5f6b325f957336cd3ed467bd62581c33e28"
-  version "0.9.7"
+  url "https://github.com/degoya/rBrowser/releases/download/v0.9.8/rbrowser-0.9.8-linux-x64.tar.gz"
+  sha256 "45745c55cb23195f0cd27ef0f4877994a9d675d382772e62510c76ff95988a40"
+  version "0.9.8"
   license "GPL-3.0-or-later"
 
   livecheck do

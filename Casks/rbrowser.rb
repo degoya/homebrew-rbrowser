@@ -5,15 +5,15 @@
 # The archives are those scripts/package-macos.sh writes and release.yml's `macos` job publishes
 # (RB-090-80); a release without them writes no cask.
 cask "rbrowser" do
-  version "0.9.7"
+  version "0.9.8"
 
   on_arm do
-    url "https://github.com/degoya/rBrowser/releases/download/v0.9.7/rbrowser-0.9.7-macos-aarch64.zip"
-    sha256 "a930db414cb0974e45796f2dc57698dfa74dee4dee5cc2af3420706af53a4906"
+    url "https://github.com/degoya/rBrowser/releases/download/v0.9.8/rbrowser-0.9.8-macos-aarch64.zip"
+    sha256 "dd1112220675126ed705a7e6acc0f17235abb88e15545bfce6ffe017449a967e"
   end
   on_intel do
-    url "https://github.com/degoya/rBrowser/releases/download/v0.9.7/rbrowser-0.9.7-macos-x86_64.zip"
-    sha256 "2583ca1c84252b229d2d4d346ae18cfa0c63703c0054b9626ca85b48face0d8c"
+    url "https://github.com/degoya/rBrowser/releases/download/v0.9.8/rbrowser-0.9.8-macos-x86_64.zip"
+    sha256 "8e9ee7090b23ab44c411d259feeb117fb84254b58af22de15ba58eb76e8c137a"
   end
 
   name "rBrowser"
